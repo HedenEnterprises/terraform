@@ -37,7 +37,7 @@ require (
 	github.com/gophercloud/utils v0.0.0-20200423144003-7c72efc7435d
 	github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 // indirect
 	github.com/hashicorp/aws-sdk-go-base v0.6.0
-	github.com/hashicorp/consul/api v1.9.1
+	github.com/hashicorp/consul/api v1.12.0
 	github.com/hashicorp/consul/sdk v0.8.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/go-azure-helpers v0.14.0
@@ -97,11 +97,11 @@ require (
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20210428180535-15715dcf1ace
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	golang.org/x/mod v0.4.2
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
+	golang.org/x/net v0.0.0-20210410081132-afb366fc7cd1
 	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84
 	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57
 	golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf
-	golang.org/x/text v0.3.5
+	golang.org/x/text v0.3.6
 	golang.org/x/tools v0.1.0
 	google.golang.org/api v0.44.0-impersonate-preview
 	google.golang.org/grpc v1.36.0
